@@ -1,0 +1,4 @@
+
+Este es nuestro primer proyecto con Backend
+A continuacion vamos a desarrollar el backend de la pagina web sobre el catalogo de vinos
+Este documento se creo en forma de practica, no tiene uso alguno
